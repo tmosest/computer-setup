@@ -39,3 +39,26 @@ Install [Homebrew](http://brew.sh/)
   coreyshelton ~$ alias composer='/usr/local/bin/composer.phar'
   coreyshelton ~$ composer --version
   ```
+
+### [MySQL Workbench](http://dev.mysql.com/downloads/workbench/):
+- Go to http://dev.mysql.com/downloads/workbench/
+
+
+### [Postman](https://www.getpostman.com/):
+- Go to https://www.getpostman.com/
+
+
+### [CyberDuck](https://cyberduck.io/?l=en):
+- Go to https://cyberduck.io/?l=en
+
+
+### [Atom](https://atom.io/):
+- Go to https://atom.io/
+
+
+### [FileZilla](https://filezilla-project.org/):
+- Go to https://filezilla-project.org/
+
+
+### [Sequel Pro](http://www.sequelpro.com/):
+- Go to http://www.sequelpro.com/
